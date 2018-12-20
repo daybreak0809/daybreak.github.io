@@ -12,23 +12,18 @@ theme_color: 302F2D
 
 # Thinny 2.1, HELLO MY EV3 kiki
 
-KIKI is the name of coffe delivery model made my J, S and N in Hanyang University at Ansan. 
+KIKI is the name of coffee delivery robot made my J, S and N in Hanyang University at Ansan. 
 ##### In this post, I'll let you know about our cute delivery service, kiki
-
 
 {% include image.html url="https://s1.narvii.com/image/nxeigvbxdqldsifavaxnc3qao6p36hdr_hq.jpg" width="100%" description="The motive of our robot, kiki's delivery service" %}
 
 This picture above is our robot's motive, the movie 'Kiki's delivery service'. We wanted to make an adorable robot to deliver coffees to customers with joy and happiness in cafes.
 
-## The index1
- I'll let you know first, the design and concepts and second, our algorithms and demonstration videos as the third. And Lastly I'll introduce improvements from members. 
-
-
-
 ## The index 
 
-
-This is index of our presentation `index`:
+This is index of our presentation 
+<br>
+`index`:
 
 ~~~
   - first:   [design and concepts]
@@ -36,6 +31,9 @@ This is index of our presentation `index`:
     third:   [demonstration videos]
     third:   [improvements from members and Q&A we got from real presentation]
 ~~~
+
+
+
 
 
 #### Others
@@ -46,6 +44,11 @@ You'll find a lot of other variables inside the file, e.g.:
 - text of the `copyright` message.
 - the number of posts per page (`paginate`).
 - the `permalink`'s structure (see [the docs](http://jekyllrb.com/docs/pagination/)).
+
+
+`video_mp4: [url]`: 
+
+
 
 
 ### Default YAML tags
