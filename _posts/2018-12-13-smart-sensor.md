@@ -16,17 +16,25 @@ Cosette is the main character of the french novel _Les Misérables_, published i
 
 {% include image.html url="https://postfiles.pstatic.net/MjAxODEyMjBfMTY4/MDAxNTQ1MjY4NjQ1NjYx.lB4oj_pb9jIYhbUWzLCqFFEtCP1yPQLryobjmX7D__kg.kkK0Dmj_HB60ibHCks08hiz0jqTmpvrUM8kGTfuwzksg.JPEG.cleanup_mess/rudolf.jpeg?type=w773" width="100%" description="my final KIKI model design" %}
 
-This new version of Thinny comes with mobile support and some bugfixes.
+This is the final coffee delivery robot with EV3 made by J, S, and N.
 
-## Usage
+## How we made it 
+from concept and design to algorithms and demonstration of our robot KIKI
 
-### Main variables
+### Index
+This is our index of our presentation <br> `INDEX`:
+~~~
+  - 1:   [concept and design of robot]
+    2:   [Algorithm]
+    3:   [demonstration videos]
+    4:   [improvements and Q&A]
+~~~
 
 The global variables are set on the `_config.yml`[^1] file.
 
 To start, you need to change at least the variable `url` on the file.
 
-#### Social links
+### 
 
 To add a social link you just need to add the following code inside the variable `social`:
 
