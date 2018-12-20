@@ -21,6 +21,11 @@ KIKI is the name of coffe delivery model made my J, S and N in Hanyang Universit
 This picture above is our robot's motive, the movie 'Kiki's delivery service'. We wanted to make an adorable robot to deliver coffees to customers with joy and happiness in cafes.
 
 ## The index 
+ I'll let you know first, the design and concepts and second, our algorithms and demonstration videos as the third. And Lastly I'll introduce improvements from members. 
+
+
+
+## The index 
 
 
 This is index of our presentation `social`:
