@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello, Cosette"
+title: "MY EV3 project in 2018"
 quote: "Thinny reaches a new version, with mobile support and some other cool features."
 image:
       url: /media/2014-02-27-hello-cosette/cover.jpg
