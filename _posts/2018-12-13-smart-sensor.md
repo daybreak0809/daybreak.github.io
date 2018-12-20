@@ -12,11 +12,11 @@ theme_color: 302F2D
 
 # Thinny 2.1, codename "KIKI, my robot for a coffee delivery service"
 
-Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
+
 
 {% include image.html url="https://s1.narvii.com/image/nxeigvbxdqldsifavaxnc3qao6p36hdr_hq.jpg" width="100%" description="our motive from anime KIKI's delivery service" %}
 
-This is the final coffee delivery robot with EV3 made by J, S, and N.
+This picture above is the final coffee delivery robot with EV3 made by J, S, and N.
 
 ## How we made it 
 from concept and design to algorithms and demonstration of our robot KIKI
