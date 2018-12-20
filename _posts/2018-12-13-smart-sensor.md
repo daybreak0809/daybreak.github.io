@@ -22,7 +22,7 @@ This is the final coffee delivery robot with EV3 made by J, S, and N.
 from concept and design to algorithms and demonstration of our robot KIKI
 
 ### Index
-This is our index of our presentation <br> `INDEX`:
+This is our index of our presentation `INDEX`:
 ~~~
   - 1:   [concept and design of robot]
     2:   [Algorithm]
