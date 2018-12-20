@@ -14,7 +14,7 @@ theme_color: 302F2D
 
 
 
-{% include image.html url="https://s1.narvii.com/image/nxeigvbxdqldsifavaxnc3qao6p36hdr_hq.jpg" width="100%" description="our motive from anime KIKI's delivery service" %}
+{% include image.html url :"https://s1.narvii.com/image/nxeigvbxdqldsifavaxnc3qao6p36hdr_hq.jpg",  width="100%" , description="our motive from anime KIKI's delivery service" %}
 
 This picture above is the final coffee delivery robot with EV3 made by J, S, and N.
 
