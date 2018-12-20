@@ -14,7 +14,7 @@ theme_color: 302F2D
 
 Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
 
-{% include image.html url="/media/2014-02-27-hello-cosette/cosette.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+{% include image.html url="/Users/myeongsucheong/Desktop/SSA/KakaoTalk_Photo_2018-12-20-10-07-36-1.jpeg " width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
 This new version of Thinny comes with mobile support and some bugfixes.
 
