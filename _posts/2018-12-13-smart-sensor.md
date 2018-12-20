@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "MY EV3 project in 2018"
-quote: "Thinny reaches a new version, with mobile support and some other cool features."
+title: "Hello, My EV3 kiki"
+quote: "Do you want a cute rodulf delivering your coffee?"
 image:
-      url: /media/2014-02-27-hello-cosette/cover.jpg
+      url: https://images.pexels.com/photos/250177/pexels-photo-250177.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+      
 video: false
 comments: true
 theme_color: 302F2D
