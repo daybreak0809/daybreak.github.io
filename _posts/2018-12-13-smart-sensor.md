@@ -33,6 +33,9 @@ This is index of our presentation
 ~~~
 ## PRESENTATION DATAS
 --> this ppt is uploaded on my blog
+## BASIC CONCEPT 
+{% include image.html url="https://postfiles.pstatic.net/MjAxODEyMjBfMjIy/MDAxNTQ1MjcxNzg0NDYw.Gn0wUJJaAXC3nE_Wg4MzXkC8pslJzEIf2eYfkCSM8FMg.CPa9G6lBStoLIfwT45-dPNzooG7j2Ru2AtQB1d2C2zIg.JPEG.cleanup_mess/슬라이드4.jpeg?type=w773" width="100%" description="basic concept" %}
+
 
 ## DESIGN AND CONCEPT OF KIKI
 
