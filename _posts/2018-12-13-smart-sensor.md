@@ -35,13 +35,23 @@ This is index of our presentation
 --> this ppt is uploaded on my blog
 
 
-## BASIC CONCEPT 
+## BASIC IDEA
 
 {% include image.html url="/media/2018-12-13-smart-sensor/1.jpeg" width="100%" description="basic concept." %}
 
 
+## BASIC CONCEPT AND DESIGN
 
-## DESIGN AND CONCEPT OF KIKI
+{% include image.html url="/media/2018-12-13-smart-sensor/2.jpeg" width="100%" description="basic concept." %}
 
 
-[youtube link](https://www.youtube.com/channel/UCx8gNLe9X591gEYzW32QSjg?view_as=subscriber).
+## development of idea and design --> FINAL MODEL
+
+{% include image.html url="/media/2018-12-13-smart-sensor/3.jpeg" width="100%" description="basic concept." %}
+
+## DEMONSTRATION VIDEOS
+
+#### +) basic cafe design
+
+{% include image.html url="/media/2018-12-13-smart-sensor/5.jpeg" width="100%" description="basic concept." %}
+here is your link : [click!! ](https://www.youtube.com/channel/UCx8gNLe9X591gEYzW32QSjg?view_as=subscriber).
