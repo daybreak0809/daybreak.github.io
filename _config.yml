@@ -4,7 +4,7 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            Thinny
+title:            The long axx ride
 tagline:          'blog'
 description:      'My personal blog.'
 url:              http://camporez.github.io
@@ -23,17 +23,11 @@ icon:             /assets/images/icon.png
 cover:            /assets/images/cover.jpg
 
 social:
-  - icon:         twitter
-    url:          https://twitter.com/iancamporez
-    desc:         Follow me on twitter
 
   - icon:         github
-    url:          https://github.com/camporez
+    url:          https://daybreak0809.github.io
     desc:         Fork me on github
 
-  - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
-    desc:         Add me on google+
 
   - icon:         feed
     url:          http://camporez.github.io/atom.xml
@@ -42,9 +36,6 @@ social:
 menu:
   - title:        Home
     url:          /
-
-  - title:        About
-    url:          /about
 
 copyright:
   author:         Camporez
