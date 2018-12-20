@@ -10,7 +10,7 @@ comments: true
 theme_color: 302F2D
 ---
 
-# Thinny 2.1, HELLO MY EV3 kiki
+# HELLO MY EV3 kiki
 
 >KIKI is the name of coffee delivery robot made my J, S and N in Hanyang University at Ansan. 
 ##### In this post, I'll let you know about our cute delivery service, kiki
