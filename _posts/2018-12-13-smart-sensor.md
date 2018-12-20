@@ -31,7 +31,8 @@ This is index of our presentation
     third:   [demonstration videos]
     third:   [improvements from members and Q&A we got from real presentation]
 ~~~
-
+## PRESENTATION DATAS
+--> this ppt is uploaded on my blog
 
 ## DESIGN AND CONCEPT OF KIKI
 
