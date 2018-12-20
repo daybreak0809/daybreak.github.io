@@ -3,6 +3,7 @@ layout: post
 title: "Hello, My EV3 kiki"
 quote: "Do you want a cute rodulf delivering your coffee?"
 image:
+      url: https://images.pexels.com/photos/250177/pexels-photo-250177.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
       url: /media/2014-02-27-hello-cosette/cover.jpg
 video: false
 comments: true
