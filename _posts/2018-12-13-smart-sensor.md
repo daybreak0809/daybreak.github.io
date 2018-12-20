@@ -1,40 +1,31 @@
 ---
 layout: post
-title: "Hello, My EV3 kiki"
-quote: "Do you want a cute rodulf delivering your coffee?"
+title: "Hello, Cosette"
+quote: "Thinny reaches a new version, with mobile support and some other cool features."
 image:
-      url: https://images.pexels.com/photos/250177/pexels-photo-250177.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
-      
+      url: /media/2014-02-27-hello-cosette/cover.jpg
 video: false
 comments: true
 theme_color: 302F2D
 ---
 
-# Thinny 2.1, codename "KIKI, my robot for a coffee delivery service"
+# Thinny 2.1, codename "[Cosette](http://lesmiserables.wikia.com/wiki/Cosette)"
 
+Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
 
+{% include image.html url="/media/2014-02-27-hello-cosette/cosette.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
-{% include image.html url :"https://s1.narvii.com/image/nxeigvbxdqldsifavaxnc3qao6p36hdr_hq.jpg",  width="100%" , description="our motive from anime KIKI's delivery service" %}
+This new version of Thinny comes with mobile support and some bugfixes.
 
-This picture above is the final coffee delivery robot with EV3 made by J, S, and N.
+## Usage
 
-## How we made it 
-from concept and design to algorithms and demonstration of our robot KIKI
-
-### Index
-This is our index of our presentation `INDEX`:
-~~~
-  - 1:   [concept and design of robot]
-    2:   [Algorithm]
-    3:   [demonstration videos]
-    4:   [improvements and Q&A]
-~~~
+### Main variables
 
 The global variables are set on the `_config.yml`[^1] file.
 
 To start, you need to change at least the variable `url` on the file.
 
-### 
+#### Social links
 
 To add a social link you just need to add the following code inside the variable `social`:
 
