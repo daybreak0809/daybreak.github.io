@@ -14,7 +14,7 @@ theme_color: 302F2D
 
 Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
 
-{% include image.html url="https://postfiles.pstatic.net/MjAxODEyMjBfMTY4/MDAxNTQ1MjY4NjQ1NjYx.lB4oj_pb9jIYhbUWzLCqFFEtCP1yPQLryobjmX7D__kg.kkK0Dmj_HB60ibHCks08hiz0jqTmpvrUM8kGTfuwzksg.JPEG.cleanup_mess/rudolf.jpeg?type=w773" width="100%" description="my final KIKI model design" %}
+{% include image.html url="https://s1.narvii.com/image/nxeigvbxdqldsifavaxnc3qao6p36hdr_hq.jpg" width="100%" description="my final KIKI model design" %}
 
 This is the final coffee delivery robot with EV3 made by J, S, and N.
 
