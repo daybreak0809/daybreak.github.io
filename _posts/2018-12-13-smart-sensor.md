@@ -13,24 +13,17 @@ theme_color: 302F2D
 # Thinny 2.1, HELLO MY EV3 kiki
 
 KIKI is the name of coffe delivery model made my J, S and N in Hanyang University at Ansan. 
-In this post, I'll let you know about our cute delivery service, kiki
+##### In this post, I'll let you know about our cute delivery service, kiki
 
 
 {% include image.html url="https://s1.narvii.com/image/nxeigvbxdqldsifavaxnc3qao6p36hdr_hq.jpg" width="100%" description="The motive of our robot, kiki's delivery service" %}
 
 This picture above is our robot's motive, the movie 'Kiki's delivery service'. We wanted to make an adorable robot to deliver coffees to customers with joy and happiness in cafes.
 
-## Usage
+## The index 
 
-### Main variables
 
-The global variables are set on the `_config.yml`[^1] file.
-
-To start, you need to change at least the variable `url` on the file.
-
-#### Social links
-
-To add a social link you just need to add the following code inside the variable `social`:
+This is index of our presentation `social`:
 
 ~~~
   - icon:   [the genericon name for the social network]
