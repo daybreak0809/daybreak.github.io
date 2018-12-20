@@ -10,9 +10,10 @@ comments: true
 theme_color: 302F2D
 ---
 
-# Thinny 2.1, codename "[Cosette](http://lesmiserables.wikia.com/wiki/Cosette)"
+# Thinny 2.1, HELLO MY EV3 kiki
 
-Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
+KIKI is the name of coffe delivery model made my J, S and N in Hanyang University at Ansan. 
+In this post, I'll let you know about our cute delivery service, kiki
 
 {% include image.html url="/media/2014-02-27-hello-cosette/cosette.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
