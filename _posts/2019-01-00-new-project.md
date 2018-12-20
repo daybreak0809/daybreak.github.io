@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Thinny 2: a Jekyll theme"
-quote: "The Infinite's Nymphet has a new look, a new codename, and a new platform!"
+title: "The projects which will be in ict festival! "
+quote: "There will be ict festival in JAN to F. I'm so looking forward to it"
 image: false
 video: false
 comments: true
