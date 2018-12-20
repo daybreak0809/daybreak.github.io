@@ -33,7 +33,9 @@ This is index of our presentation
 ~~~
 
 
+## DESIGN AND CONCEPT OF KIKI
 
+{% include image.html url=https://postfiles.pstatic.net/MjAxODEyMjBfMTMg/MDAxNTQ1MjcxNzg0Mzk1.S6YFnw0DniCnqAwv2RTpV839ZkGLTy65gSkiKjPCK4cg.-1pOWMLKf6BGcPBm-borpVwuHxPps_y_eUd4yMbEozQg.JPEG.cleanup_mess/1.jpeg?type=w773" width="100%" description="First page" %}
 
 
 #### Others
