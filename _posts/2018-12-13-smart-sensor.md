@@ -20,7 +20,7 @@ KIKI is the name of coffe delivery model made my J, S and N in Hanyang Universit
 
 This picture above is our robot's motive, the movie 'Kiki's delivery service'. We wanted to make an adorable robot to deliver coffees to customers with joy and happiness in cafes.
 
-## The index 
+## The index1
  I'll let you know first, the design and concepts and second, our algorithms and demonstration videos as the third. And Lastly I'll introduce improvements from members. 
 
 
@@ -28,22 +28,15 @@ This picture above is our robot's motive, the movie 'Kiki's delivery service'. W
 ## The index 
 
 
-This is index of our presentation `social`:
+This is index of our presentation `index`:
 
 ~~~
-  - icon:   [the genericon name for the social network]
-    url:    [the url to follow]
-    desc:   [a small description for the link (e.g. "Follow me on twitter")]
+  - first:   [design and concepts]
+    second:  [our algorithms]
+    third:   [demonstration videos]
+    third:   [improvements from members and Q&A we got from real presentation]
 ~~~
 
-#### Menu
-
-To add a menu item you just need to add the following code inside the variable `menu`:
-
-~~~
-  - title:  [title of the menu item]
-    url:    [the url to follow]
-~~~
 
 #### Others
 
