@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hello, Cosette"
-quote: "Thinny reaches a new version, with mobile support and some other cool features."
+title: "Hello, My EV3 kiki"
+quote: "Do you want a cute rodulf delivering your coffee?"
 image:
       url: /media/2014-02-27-hello-cosette/cover.jpg
 video: false
